@@ -1,5 +1,5 @@
 # Capstone Project 2
-Kiva loan delay analysis.
+Book Recommendation System: Goodreads.com.
 
 ---
 ### Goal of the project:
