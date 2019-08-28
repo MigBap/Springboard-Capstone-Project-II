@@ -8,7 +8,7 @@ Build a book recommendation system for users, using Goodreads.com dataset with a
 <br>
 
 **Method and Results:** 
-The built recommendation system works as follows:
+
  - First, we built a matrix factorization algorithm using ALS (Alternating Least Squares) in order to get implicit feedback. In other words, an algorithm that could predict if the user read a certain book or not, regardless of his opinion of the book. This could be seen as an attempt to study user behavior, in the sense that it tries to predict general/implicit preferences. The test score was pretty good, with a mean AUC of 0.96.
  - Using that implicit behavior as an extra feature, we then started to build the recommendation system by testing several algorithms and predict the user rating (explicit behavior). This was made after doing an initial feature selection, which was mainly based on the previous exploratory data analysis phase. Although the one with better results was a Voting Classifier ensemble using 3 of the models, I chose to go with the Light Gradient Boosting (LightGBM) algorithm, which got similar but much faster results.
  - Then, through principal component analysis (PCA), Recursive Feature Elimination (RFE) and also considering the feature importances obtained when testing the Random Forest Classifier, further feature selection was made, reducing the chosen features to 7.
