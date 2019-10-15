@@ -21,6 +21,6 @@ Build a book recommendation system for users, using Goodreads.com dataset with a
 | File                                                         |    Description                                   |
 | ------------------------------------------------------------ | ----------------------------------------------   |
 | [Capstone Project 2_ Project Proposal.pdf](https://github.com/MigBap/Springboard-Capstone-Project-II/blob/master/Capstone%20Project%202_%20Project%20Proposal.pdf)                                         |       Project proposal                           |
-| [book_recommendations_goodreads.ipynb](https://github.com/MigBap/Springboard-Capstone-Project-II/blob/master/book_recommendations_goodreads.ipynb)                              |       All code in one file                       |
+| [book_recommendations_goodreads-v2.ipynb](https://github.com/MigBap/Springboard-Capstone-Project-II/blob/master/book_recommendations_goodreads-v2.ipynb)                              |       All code in one file (updated version)                      |
 | [Capstone Project 2 - Final Presentation.pptx](https://github.com/MigBap/Springboard-Capstone-Project-II/blob/master/Capstone%20Project%202%20-%20Final%20Presentation.pptx)                                      |       PowerPoint presentation                    |
 | [Capstone Project 2_ Final Report.pdf](https://github.com/MigBap/Springboard-Capstone-Project-II/blob/master/Capstone%20Project%202_%20Final%20Report.pdf)                          |       Final report: pdf document                
